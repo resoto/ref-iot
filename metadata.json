@@ -1,0 +1,7 @@
+{
+  "name": "SmartFreeze IoT",
+  "description": "A next-generation smart refrigerator dashboard powered by Gemini. Manage inventory, scan items via camera, monitor environment, and generate AI recipes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
